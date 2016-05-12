@@ -46,7 +46,7 @@
 <!ENTITY menu.db.checkQuick.ak "">
 <!ENTITY exportAll "Exportar Todas las Tablas">
 <!ENTITY exportAll.ak "x">
-<!ENTITY exportDb "Esportar Base de Datos">
+<!ENTITY exportDb "Exportar Base de Datos">
 <!ENTITY exportDb.ak "b">
 <!ENTITY exportDbStr "Exportar Estructura de la Base de Datos">
 <!ENTITY exportDbStr.ak "u">
